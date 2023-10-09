@@ -3,6 +3,8 @@ Art to make new scale for type 85 meter.
 
 ![](6kscale.svg)
 
+![](p1290645.jpg)
+
 This is template art for you to make a new meter scale for a "size 85" meter (like the 85C1).
 For linework and structured positioning, I suggest editing the dxf with a drafting program like librecad,
 A program like inkscape can then take it and adjust the line weight and add formatted text.
