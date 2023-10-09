@@ -8,6 +8,6 @@ For linework and structured positioning, I suggest editing the dxf with a drafti
 A program like inkscape can then take it and adjust the line weight and add formatted text.
 
 good luck, I'd love to see what scales you make for your meters!
-Maybe I can add it to the project? Build a libary of strange custom scales?
+Maybe I can add it to the project? Build a library of strange custom scales?
 
   Rue M.
