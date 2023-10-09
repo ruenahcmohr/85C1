@@ -10,4 +10,9 @@ A program like inkscape can then take it and adjust the line weight and add form
 good luck, I'd love to see what scales you make for your meters!
 Maybe I can add it to the project? Build a library of strange custom scales?
 
+HEY Remmeber that inkscape default prints at only 75 DPI!!
+Adjust the settings to print at 600DPI.
+
+
+
   Rue M.
