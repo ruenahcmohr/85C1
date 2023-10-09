@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 793.7007874015749 1122.5196850393702"
-   width="793.7007874015749"
-   height="1122.5196850393702"
+   viewBox="0 0 237.01574 145.92913"
+   width="237.01575"
+   height="145.92912"
    version="1.1"
    id="svg3787"
    sodipodi:docname="6kscale.svg"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,31 +39,37 @@
      inkscape:window-height="965"
      id="namedview3789"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="412.91614"
-     inkscape:cy="490.0577"
-     inkscape:window-x="135"
-     inkscape:window-y="24"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="198.37704"
+     inkscape:cy="133.79273"
+     inkscape:window-x="1799"
+     inkscape:window-y="146"
      inkscape:window-maximized="0"
      inkscape:current-layer="g1351"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     fit-margin-top="5"
+     lock-margins="false"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:showpageshadow="false" />
   <defs
      id="defs1185">
     <rect
-       x="374.76698"
-       y="480.42058"
+       x="374.76697"
+       y="480.42059"
        width="56.095333"
        height="22.172939"
        id="rect4517" />
     <marker
        id="DistanceX"
        orient="auto"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        style="overflow:visible">
       <path
-         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
-         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
          id="path1173" />
     </marker>
     <pattern
@@ -100,9 +106,10 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="0"
-     id="g1351">
+     id="g1351"
+     transform="translate(-281.73514,-430.66082)">
     <path
-       d="m 345.47295,559.62569 a 4.701348,4.701348 0 1 0 -9.4027,0 4.701348,4.701348 0 1 0 9.4027,0 z"
+       d="m 345.47295,559.62569 a 4.70135,4.70135 0 1 0 -9.4027,0 4.70135,4.70135 0 1 0 9.4027,0 z"
        style="fill:none;stroke:#000000;stroke-linecap:round"
        id="path1187" />
     <path
@@ -146,11 +153,11 @@
        style="fill:none;stroke:#000000;stroke-linecap:round"
        id="path1207" />
     <path
-       d="m 362.70299,551.8924 a 2.2891345,2.2891345 0 0 0 -4.57827,0"
+       d="m 362.70299,551.8924 a 2.289135,2.289135 0 0 0 -4.57827,0"
        style="fill:none;stroke:#000000;stroke-linecap:round"
        id="path1209" />
     <path
-       d="m 441.23346,551.8924 a 2.294349,2.294349 0 1 0 -4.5887,0"
+       d="m 441.23346,551.8924 a 2.29435,2.29435 0 1 0 -4.5887,0"
        style="fill:none;stroke:#000000;stroke-linecap:round"
        id="path1211" />
     <path
@@ -431,7 +438,7 @@
        id="path1349" />
     <text
        xml:space="preserve"
-       style="font-size:10.6667px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="340.72342"
        y="538.88501"
        id="text4362"><tspan
@@ -522,7 +529,7 @@
        style="font-size:21.3333px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4517);fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" />
     <text
        xml:space="preserve"
-       style="font-size:12px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:12px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="text4366-3-5-1-0"
        y="497.30106"
        x="371.94373"
@@ -536,7 +543,8 @@
      inkscape:groupmode="layer"
      inkscape:label="ref"
      id="g3767"
-     style="display:none">
+     style="display:none"
+     transform="translate(-281.73514,-430.66082)">
     <path
        d="m 286.65171,556.391 0.37281,0.137"
        style="fill:none;stroke:#808080;stroke-linecap:round"
